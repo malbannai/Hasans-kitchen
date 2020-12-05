@@ -1,0 +1,12 @@
+{
+  "name": "Hasans-kitchen-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/malbannai/Hasans-kitchen-api.git",
+  "author": "aldoserehd <68321828+aldoserehd@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
